@@ -49,7 +49,7 @@ npm star
 ### Instrucciones para clonar e instalar dependencias.
 
 ```
-git clone https://github.com/pi-rym/PM2-rvh2776
+git clone git@github.com:rvh2776/dePelis_front.git
 cd front/
 npm install
 
