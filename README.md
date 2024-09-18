@@ -15,7 +15,7 @@ En esta actividad se utilizán las siguientes tecnologías: HTML, CSS, JavaScrip
 
 ```
 git clone git@github.com:rvh2776/dePelis_front.git
-cd front/
+cd dePelis_front/
 npm install
 ```
 
