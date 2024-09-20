@@ -24,7 +24,7 @@ npm install
 #### Frontend: en dos consolas separadas, ejecute.
 ```
 npm run build
-npm star
+npm start
 ```
 
 ---
